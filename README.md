@@ -1,4 +1,4 @@
-# This projet is part of the:
+# This Project is Part of the:
 # Machine Learning Engineer Nanodegree
 # Content: Unsupervised Learning
 ## Project: Creating Customer Segments
